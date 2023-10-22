@@ -25,6 +25,7 @@ public:
     {
         return panjang * lebar * tinggi;
     }
+
 };
 
 int main(){
